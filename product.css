@@ -1,0 +1,69 @@
+.containerpro{
+    margin: 50px 300px;
+   background-color: white;
+    box-shadow: 0 5px 20px 2px rgba(0,0,0,.12);
+    border-radius: .2rem
+    
+}
+.bodyc{
+    background-color: #e6f0ff;
+}
+.containerpro h2{
+    padding: 20px 40px;
+}
+.containerpro img {
+    padding-left: 114px;
+
+}
+.containerpro h3 {
+    padding-left: 114px;
+    padding-top: 15px;
+    
+}
+.containerpro span{
+    padding-left: 114px;
+    padding-top: 15px;
+}
+.containerpro p {
+    padding-left: 114px;
+    padding-top: 15px; 
+}
+.button1{
+    margin : 15px 300px;
+}
+@media only screen and (max-width: 980px){
+    .containerpro{
+        margin: 50px 13px;
+       background-color: white;
+        box-shadow: 0 5px 20px 2px rgba(0,0,0,.12);
+        border-radius: .2rem
+        
+    }
+   
+    .containerpro h2{
+        padding: 2px 8px;
+        font-size: 25px;
+    }
+    .containerpro img {
+        padding-left: 10px;
+        width:450px;
+        height:260px;
+    }
+    .containerpro h3 {
+        padding-left: 11px;
+        padding-top: 15px;
+        
+    }
+    .containerpro span{
+        padding-left: 11px;
+        padding-top: 15px;
+    }
+    .containerpro p {
+        padding-left: 11px;
+        padding-top: 15px; 
+    }
+    .button1{
+        margin : 15px 130px;
+
+    }
+
